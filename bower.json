@@ -1,0 +1,23 @@
+{
+  "name": "ngui-sticky",
+  "version": "0.0.1",
+  "authors": [
+    "Boris Okunskiy <boris@okunskiy.name>"
+  ],
+  "description": "Intelligent GPU-accelerated sticky/fixed UI Component for Angular",
+  "main": "ngui.sticky.js",
+  "keywords": [
+    "angular",
+    "ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".idea",
+    "*.iml",
+    "test",
+    "tests"
+  ]
+}
